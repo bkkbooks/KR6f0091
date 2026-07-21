@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6f0091/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 刻彌陀經疏序孤山圓師撰彌陀經疏後又鈔之名曰西資吾邦未見流行學者憾焉比偶獲義疏訂正鏤刻使學者免傳寫之勞他日若有得鈔者與此疏並行于世則在西剎行者豈不大資哉竊望焉時正德甲午仲秋旦談峰蓮光院沙門光榮謹書
   hash: sha256:3ac0ba2839b6e63c4783cc8dc14d1afe45862cc50391cc1d9dc90e3e3f682c4b
   markers:
   - {type: 序, offset: 0, content: 刻彌陀經疏序, id: KR6f0091_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 阿彌陀經疏
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T37/T37n1760.xml
     old_id: T37n1760
-hash: sha256:81f4bd46249c696b943cd4f76905d1b3f570f7c596bac91c9bdcc799f782d912
+hash: sha256:ab3ac310156d41ed65e797c08214e0770c19f2b836f3024c65e5fbbe4ba35b76

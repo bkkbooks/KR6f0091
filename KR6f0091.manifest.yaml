@@ -24,17 +24,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6f0091_000.yaml, hash: 'sha256:81f4bd46249c696b943cd4f76905d1b3f570f7c596bac91c9bdcc799f782d912'}
+  - {seq: 0, filename: KR6f0091_000.yaml, hash: 'sha256:ab3ac310156d41ed65e797c08214e0770c19f2b836f3024c65e5fbbe4ba35b76'}
   - {seq: 1, filename: KR6f0091_001.yaml, hash: 'sha256:f54643ffd7223763e3ce39ffd7235bf196f3cd71b0a25d2384ea9bee03a67575'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0091_000.markers.yaml, hash: 'sha256:f463707b24c6f45c89e013cf47e055771a29ab743b00355ef8f706a1564bd576'}
+  - {seq: 0, role: markers, filename: assets/KR6f0091_000.markers.yaml, hash: 'sha256:6a41ae2e7df474cfe71e2353e9d7c29e04ee3ab9c945b6e04d02b2ab9e615b0e'}
   - {seq: 1, role: markers, filename: assets/KR6f0091_001.markers.yaml, hash: 'sha256:ecfa492f3a74dc0ea19c35570cc65310e8702f654d5fdb41f25519a393cf5576'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6f0091_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 刻彌陀經疏序
@@ -50,7 +50,7 @@ table_of_contents:
   label: 佛說阿彌陀經疏并序
   type: juan
   level: 1
-hash: sha256:5ee96758d8a87a424323a37d1f0382719faa3875c5cbd6b2f40bf3c218280ea8
+hash: sha256:9717d758cb416fb37abe08d5d078f4cfa489f17801046f27e1126e2a196d9061
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
